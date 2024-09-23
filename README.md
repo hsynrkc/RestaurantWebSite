@@ -20,7 +20,7 @@ This project is a restaurant website built using HTML, CSS and JavaScript. Users
 
 * Contact Form: For users to contact the restaurant.
 
-## Screenshot
+## Preview
 
 ![foodweb](https://github.com/user-attachments/assets/21c70614-154e-4944-9a4b-e990476f2c70)
 
